@@ -5,6 +5,7 @@ It lets you play MIDI notes using your computer keyboard, snapped to a chosen mu
 
 The goal is to feel **fast, musical, and instrument-like**, without leaving the REAPER environment.
 
+![ReaKeys in action](https://raw.githubusercontent.com/protbox/ReaKeys/refs/heads/main/Screenshot.png "ReakKeys")
 ---
 
 ## Features
