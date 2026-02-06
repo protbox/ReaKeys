@@ -3,7 +3,7 @@
 **ReaKeys** is a lightweight, scale-locked typing keyboard for **REAPER**.  
 It lets you play MIDI notes using your computer keyboard, snapped to a chosen musical scale, with octave control, velocity, optional portamento (if supported), and a visual piano reference.
 
-The goal is to feel **fast, musical, and instrument-like**, without leaving the REAPER environment.
+The primary goal of this project was to create a keyboard for people who aren't music theory boffins, but still want to create coherent melodies/hooks easily. Think of it as bumper bowling for the piano.
 
 ![ReaKeys in action](https://raw.githubusercontent.com/protbox/ReaKeys/refs/heads/main/Screenshot.png "ReakKeys")
 ---
