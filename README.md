@@ -43,7 +43,7 @@ In REAPER:
 3. Install the latest version
 
 ### 3. Install ReaKeys
-1. Download reakeys.lua
+1. Download [reakeys.lua](https://raw.githubusercontent.com/protbox/ReaKeys/refs/heads/main/reakeys.lua)
 2. In REAPER, go to Options -> Show REAPER resource path in explorer/finder
 3. Drop reakeys.lua into the Scripts folder
 
