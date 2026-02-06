@@ -54,16 +54,19 @@ This will add it into your action list. From there you can treat it as you would
 ## Usage
 
 1. Arm a track with a virtual instrument
-2. Run **ReaKeys** from the Action List (or bind it to a shortcut as described above)
-3. Click the ReaKeys window to focus it
-4. Play notes using your typing keyboard
-5. Change:
+2. Right-Click Arm button -> Input: MIDI -> All MIDI Inputs
+3. Run **ReaKeys** from the Action List (or bind it to a shortcut as described above)
+4. Click the ReaKeys window to focus it
+5. Play notes using your typing keyboard
+6. Change:
 - **Root**
 - **Scale**
 - **Octave**
 - **Velocity**
-6. (Optional) Enable **Portamento**  
+7. (Optional) Enable **Portamento**  
 > Works only on instruments that support MIDI mono/legato portamento
+
+For an easier workflow, you can automate step 1 and 2 by doing it once and creating a track template.
 
 ### Transport Shortcuts
 
